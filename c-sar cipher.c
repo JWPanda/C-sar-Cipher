@@ -6,7 +6,7 @@
 
 #define BUF_SIZE 512
 
-
+/*asdfasdfasdf*/
 /* encode consumes a character and a integer, and mutates the character according to the caesar cipher*/
 char *encode(char *msg, int key)
 {
